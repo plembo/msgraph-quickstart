@@ -19,6 +19,7 @@
     "moment": "^2.24.0",
     "morgan": "~1.9.1",
     "passport-azure-ad": "^4.2.1",
-    "simple-oauth2": "^3.3.0"
+    "simple-oauth2": "^3.3.0",
+    "minimist": ">=0.2.1"
   }
 }
